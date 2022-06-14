@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="string">what is your name</string>
+    <string name="submitt">Submit</string>
+    <string name="sib">Number of siblings</string>
+    <string name="sign">What is your zodiac sign</string>
+    <string name="warning">click submit</string>
+    <string name="num">favorite number</string>
+    <string name="profile">profile</string>
+    <string name="submit">Submit</string>
+    <string name="submitted">submitted</string>
+</resources>
